@@ -1,0 +1,26 @@
+img{
+    width: 20px;
+}
+h1{
+    text-align: center;
+}
+.service{
+    width: 30%;
+    float: left;
+    margin-right: 3%;
+}
+body{
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 20px;
+    background-image: url(../../Downloads/images\ \(8\).jpg);
+    background-repeat: no-repeat;
+    background-position: center  ;
+    background-size: 80%;
+}
+legend{
+    text-align: center;
+}
+fieldset{
+    border: 2px solid coral;
+}

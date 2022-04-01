@@ -1,0 +1,13 @@
+fieldset{
+    border: 3px dotted coral;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    padding-left: 40px;
+}
+legend{
+    background-color: aquamarine;
+    padding: 8px;
+    border-radius: 10px;
+    text-align: center;
+    /* margin-left: -30px; */
+}

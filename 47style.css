@@ -1,0 +1,26 @@
+#page{
+    width: 70%;
+    margin: 0 auto;
+    min-width: 768px;
+}
+#content{
+    background-color: aqua;
+    padding: 10px;
+}
+
+#left-sidebar{
+    width: 150px;
+    float: left;
+    margin-right: 3%;
+}
+#main{
+    width: 50%;
+    float: left;
+}
+#right-sidebar{
+    width: 150px;
+    float: right;
+}
+.clear{
+    clear: both;
+}
